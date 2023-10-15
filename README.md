@@ -1,36 +1,41 @@
-### Hello World! My name is Loïc 👋
-![matrix-gif](3HeZ.gif)
+### Hello World From Belgium 🇧🇪! My name is Loïc 👋
 
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
+**I am a curious fullstack web developer. Passionate about programming, challenges and building awesome products.**
 
-# Markdown heading styles {#identifier .heading1}
-## Markdown heading styles {#identifier .heading2}
+## Went From Zero To Hero with the help of :
+![molengeek-and-lewagon-logo](./bootcamps.png)
 
 
+## What I have build :
+
+**Resume and cover letter generator :**
+Features :
+- AI content generation (OpenAI api & OpenAI gem)
+- Resume and cover letter inline editing (Hotwire Turbo frames)
+- PDF generation (Doppio.sh api)
+- Dashboard (Search and tagging features)
+
+Technologies :
+- Ruby on Rails
+- Google auth
+- Stripe
+- Hotwire
+- Tailwind css
+- Alpine JS
+- OpenAI
+- Fontawesome
+
+---
+
+**[Github repositories tracker - Chrome extension](https://github.com/loddaa/github-repositories-tracker-Chrome-extension)**
+Features :
+- Add and remove Github repositories to collection
+
+Technologies :
+- Google chrome extension api
+- Github api
+- Pure JS (no external packages)
 
 
-<!--
-**loddaa/loddaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/loic-de-deyn/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
