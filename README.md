@@ -1,5 +1,5 @@
 ### Hello World!
-[matrix-gif](./images/3HeZ.gif)
+[matrix-gif](3HeZ.gif)
 
 
 <!--
