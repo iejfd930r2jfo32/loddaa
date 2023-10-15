@@ -2,13 +2,14 @@
 
 **I am a curious fullstack web developer. Passionate about programming, challenges and building awesome products.**
 
-## Went From Zero To Hero with the help of :
+### Went From Zero To Hero with the help of :
 ![molengeek-and-lewagon-logo](./bootcamps.png)
 
 
-## What I have build :
+### What I have build :
 
 **Resume and cover letter generator :**
+
 Features :
 - AI content generation (OpenAI api & OpenAI gem)
 - Resume and cover letter inline editing (Hotwire Turbo frames)
@@ -23,11 +24,13 @@ Technologies :
 - Tailwind css
 - Alpine JS
 - OpenAI
-- Fontawesome
 
 ---
 
+![github-repo-tracker-gif](./github-repo-tracker.gif)
+
 **[Github repositories tracker - Chrome extension](https://github.com/loddaa/github-repositories-tracker-Chrome-extension)**
+
 Features :
 - Add and remove Github repositories to collection
 
@@ -37,5 +40,5 @@ Technologies :
 - Pure JS (no external packages)
 
 
-## Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/loic-de-deyn/)
+### Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/loic-de-deyn/)
 
