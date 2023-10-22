@@ -30,7 +30,7 @@ Technologies :
 
 ![github-repo-tracker-gif](./gh-repo-collab.gif)
 
-**[Github repositories tracker - Chrome extension](https://github.com/loddaa/github-repositories-tracker-Chrome-extension)**
+**[Github repositories tracker - Chrome extension](https://github.com/loddaa/Github-Collab-Repository)**
 
 Features :
 - Get access to all your Github repo even as a collaborator.
