@@ -28,15 +28,15 @@ Technologies :
 
 ---
 
-![github-repo-tracker-gif](./github-repo-tracker.gif)
+![github-repo-tracker-gif](./gh-repo-collab.gif)
 
 **[Github repositories tracker - Chrome extension](https://github.com/loddaa/github-repositories-tracker-Chrome-extension)**
 
 Features :
-- Add and remove Github repositories to collection
+- Get access to all your Github repo even as a collaborator.
 
 Technologies :
-- Google chrome extension api
+- Google Chrome extension api
 - Github api
 - Pure JS (no external packages)
 
