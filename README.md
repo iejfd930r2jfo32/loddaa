@@ -2,10 +2,6 @@
 
 **I'm a curious fullstack web developer. Passionate about programming, challenges and building awesome products.**
 
-### Went From Zero To Hero with the help of :
-![molengeek-and-lewagon-logo](./bootcamps.png)
-
-
 ### What I've built :
 
 ![hey-cv-screenshots](./hey-cv-screenshot.png)
