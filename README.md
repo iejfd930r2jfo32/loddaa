@@ -1,4 +1,5 @@
 ### Hello World From Belgium 🇧🇪! My name is Loïc 👋
+Bootcamp grad @LeWagon and Molengeek.
 
 **I'm a curious fullstack web developer. Passionate about programming, challenges and building awesome products.**
 
