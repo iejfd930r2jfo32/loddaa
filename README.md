@@ -1,4 +1,4 @@
-# _Old account - to be removed soon_ Please connect find me @ lodedeyn on Github.
+# _Old account - to be removed soon_. Please connect find me @ lodedeyn on Github.
 ### Hello World From Belgium 🇧🇪! My name is Loïc 👋
 Bootcamp grad @LeWagon and Molengeek.
 
